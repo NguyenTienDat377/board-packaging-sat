@@ -1,0 +1,7 @@
+Each instance is given by the following information:
+
+[number of rows]
+[number of columns]
+[gain values for the board, one line for each row]
+[number of rectangles]
+[height (number of rows), width (number of columns), and cost for each rectangle, one line for each rectangle]
