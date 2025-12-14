@@ -501,7 +501,7 @@ if __name__ == "__main__":
     if p == 1:
         print("Note: Solve p=1 to optimality first to get baseline")
     elif p >= 2:
-        theoretical_upper = 244 * (p ** 2)
+        theoretical_upper = 224 * (p ** 2)
         print(f"Theoretical upper bound (244*p²): {theoretical_upper}")
 
 
